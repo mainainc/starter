@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "asteroid Documentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -9,9 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Guides",
+        "dropdown": "Guides",
         "groups": [
           {
             "group": "Get Started",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "dropdown": "API Reference",
         "groups": [
           {
             "group": "API Documentation",
